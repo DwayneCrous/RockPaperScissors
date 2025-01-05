@@ -45,7 +45,7 @@ public class rpsMenu extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Rock, Paper, Scissors");
         setAutoRequestFocus(false);
-        setMinimumSize(new java.awt.Dimension(1000, 563));
+        setMinimumSize(new java.awt.Dimension(950, 600));
         setPreferredSize(new java.awt.Dimension(950, 600));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
