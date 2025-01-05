@@ -46,6 +46,7 @@ public class rpsMenu extends javax.swing.JFrame {
         setTitle("Rock, Paper, Scissors");
         setAutoRequestFocus(false);
         setMinimumSize(new java.awt.Dimension(1000, 563));
+        setPreferredSize(new java.awt.Dimension(950, 600));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel1.setBackground(new java.awt.Color(27, 40, 69));
